@@ -21,3 +21,6 @@ git clone https://github.com/jayrajmulani/question-bank.git
 cd question-bank
 python3 question_bank.py
 ```
+
+## Design Diagram
+![image](https://github.com/user-attachments/assets/b3fd9ebb-08b6-4c7d-9be9-e51bab701f78)
